@@ -25,12 +25,12 @@ h1,h2,p{
 .wapper{
     position: relative;
 }
+.first-site{
+    margin: 20px auto;
+}
 #main{
     padding: 20px 320px 0 100px;
     line-height: 25px;
-}
-#main h1, #main h2{
-    margin: 10px 0 15px;
 }
 #main img{
     display: block;
@@ -54,9 +54,4 @@ h1,h2,p{
     max-width: 100%;
     margin: 80px;
 }
-a{
-    color: #3498db;
-}
-a:hover {
-    color: #e74c3c;
-}
+
